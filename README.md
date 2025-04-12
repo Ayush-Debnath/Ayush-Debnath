@@ -36,6 +36,7 @@ Currently diving deep into **Machine Learning**, **AI**, and everything in betwe
 ## 🤝 Let’s Connect!
 Feel free to reach out for collaborations, projects, or just a chat about tech & ideas.  
 📬 Email: `debnathayush48@gmail.com`
+📝 Resume: `https://drive.google.com/file/d/1YLb_HoJiZn9ri7qquJPv_7iggp99Wf61/view?usp=drive_link`
 📍 India
 
 ---
