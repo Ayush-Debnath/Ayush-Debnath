@@ -28,7 +28,6 @@ Currently diving deep into **Machine Learning**, **AI**, and everything in betwe
 
 ## 🎯 Goals
 - Master ML/DL to build smarter systems
-- Dive into defense-tech & national security solutions
 - Contribute to real-world impactful projects
 - Build something that becomes *essential* to daily life
 
